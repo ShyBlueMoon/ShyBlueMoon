@@ -29,7 +29,7 @@ https://colorpalettes.net/color-palette-4202/
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shybluemoon&show_icons=true&locale=en&layout=compact" alt="shybluemoon" /></p>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shybluemoon)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 ShyBlueMoon/ShyBlueMoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
