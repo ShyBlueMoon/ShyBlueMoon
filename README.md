@@ -28,7 +28,6 @@ https://colorpalettes.net/color-palette-4202/
   <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shybluemoon&show_icons=true&locale=en&layout=compact" alt="shybluemoon" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shybluemoon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
