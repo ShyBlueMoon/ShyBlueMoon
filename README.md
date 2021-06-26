@@ -1,8 +1,8 @@
 
-<h1 position= "relative" align="center"> Olá, Devs! 👋 Sou Luana Silva!</h1>
+# Olá, Devs! <img src="http://static.skaip.org/img/emoticons/180x180/f6fcff/vulcansalute.gif" alt="Olá mundo" width="30px">Sou Luana Silva! 
 
 
-<span id="olamundo"><img src="https://i.giphy.com/media/fedryX7dMGMe6lgqDm/giphy.gif" alt="Olá mundo" width="30px"></span>
+
 
 <p> Também conhecida como <b><em>ShyBlueMoon</em></b>, sou estudade de front-end e mobile.</p>
 
