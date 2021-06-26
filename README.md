@@ -1,4 +1,6 @@
 background-color:#92ddea; 
+https://colorpalettes.net/color-palette-4202/
+
 <h1 position= "relative" align="center"> Olá, Devs! 👋 Sou Luana Silva!</h1>
 
 
