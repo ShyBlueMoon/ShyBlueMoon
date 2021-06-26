@@ -29,7 +29,8 @@ https://colorpalettes.net/color-palette-4202/
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shybluemoon&layout=compact&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shybluemoon&layout=compact&theme=kacho_ga)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShyBlueMoon&layout=compact&theme=kacho_ga)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 ShyBlueMoon/ShyBlueMoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
