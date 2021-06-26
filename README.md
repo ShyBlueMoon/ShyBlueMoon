@@ -1,5 +1,5 @@
 
-# Hello there! <img src="http://static.skaip.org/img/emoticons/180x180/f6fcff/vulcansalute.gif" alt="Olá mundo" width="30px">I'm Luana Silva! 
+# Hello there! <img src="http://static.skaip.org/img/emoticons/180x180/f6fcff/vulcansalute.gif" alt="Olá mundo" width="30px">**I'm Luana Silva!** 
 
 
 
