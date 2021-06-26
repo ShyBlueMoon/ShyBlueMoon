@@ -1,10 +1,10 @@
 
-# Olá, Devs! <img src="http://static.skaip.org/img/emoticons/180x180/f6fcff/vulcansalute.gif" alt="Olá mundo" width="30px">Sou Luana Silva! 
+# Hello there! <img src="http://static.skaip.org/img/emoticons/180x180/f6fcff/vulcansalute.gif" alt="Olá mundo" width="30px">I'm Luana Silva! 
 
 
 
 
-<p> Também conhecida como <b><em>ShyBlueMoon</em></b>, sou estudade de front-end e mobile.</p>
+<p> Also known as <b><em>ShyBlueMoon</em></b>, I'm a front-end and mobile dev student.</p>
 
 <p>
 <ul>
