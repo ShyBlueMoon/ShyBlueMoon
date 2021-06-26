@@ -1,6 +1,12 @@
 
-# Hello there! <img src="http://static.skaip.org/img/emoticons/180x180/f6fcff/vulcansalute.gif" alt="Olá mundo" width="30px">**I'm Luana Silva!** 
+<h1 style="text-align:center"> Hello there! <img src="http://static.skaip.org/img/emoticons/180x180/f6fcff/vulcansalute.gif" alt="Olá mundo" width="30px">I'm Luana Silva!</h1>
 
+
+
+
+
+<p align="center">
+  <a href="https://dribbble.com/daniserpa/" target="_blank"> <img src="https://raw.githubusercontent.com/ShyBlueMoon/ShyBlueMoon/main/hi_girl.gif" alt="Image by Daniela Serpa" width="200"/></a>
 
 
 
@@ -16,7 +22,7 @@
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3><b>Languages and Tools:</b></h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
