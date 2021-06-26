@@ -1,10 +1,8 @@
-background-color:#92ddea; 
-https://colorpalettes.net/color-palette-4202/
 
 <h1 position= "relative" align="center"> Olá, Devs! 👋 Sou Luana Silva!</h1>
 
 
-<span id="olamundo"><img src="https://i.giphy.com/media/fedryX7dMGMe6lgqDm/giphy.gif" alt="Olá mundo" width= "200" height="200"></span>
+<span id="olamundo"><img src="https://i.giphy.com/media/fedryX7dMGMe6lgqDm/giphy.gif" alt="Olá mundo" width="30px"></span>
 
 <p> Também conhecida como <b><em>ShyBlueMoon</em></b>, sou estudade de front-end e mobile.</p>
 
