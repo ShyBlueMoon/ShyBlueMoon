@@ -2,7 +2,8 @@
 <h1 style="text-align:center"> Hello there! <img src="http://static.skaip.org/img/emoticons/180x180/f6fcff/vulcansalute.gif" alt="Olá mundo" width="30px">I'm Luana Silva!</h1>
 
 
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/ShyBlueMoon/ShyBlueMoon/main/BANNER%20PRINCIPAL.png" alt="Banner" width="1200"/></p>
 
 
 <p align="center">
@@ -33,8 +34,8 @@
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shybluemoon&layout=compact&theme=kacho_ga)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShyBlueMoon&layout=compact&theme=kacho_ga)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shybluemoon&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShyBlueMoon&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 ShyBlueMoon/ShyBlueMoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
