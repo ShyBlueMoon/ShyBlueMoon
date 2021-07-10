@@ -3,7 +3,7 @@
 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/ShyBlueMoon/ShyBlueMoon/main/BANNER%20PRINCIPAL.png" alt="Banner" width="1200"/></p>
+<img src="https://raw.githubusercontent.com/ShyBlueMoon/ShyBlueMoon/main/BANNER.png" alt="Banner com meu logotipo." width="1200"/></p>
 
 
 <p align="center">
