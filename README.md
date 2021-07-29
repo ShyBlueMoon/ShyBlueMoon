@@ -17,7 +17,7 @@
 <ul>
   <li> 👀 I’m interested in tech, video and audio editing</li>
   <li> 🌱 I’m currently learning HTML, CSS and JS.</li>
-  <li>💞️ I’m looking to collaborate on small projects for beginers.</li>
+  <li>💞️ I’m looking to collaborate on small projects for beginners.</li>
   <li>📫 How to reach me ...</li>
 </ul>
 </p>
