@@ -11,7 +11,7 @@
 
 
 
-<p> Also known as <b><em>ShyBlueMoon</em></b>, I'm a front-end and mobile dev student.</p>
+<p> Also known as <b><em>ShyBlueMoon</em></b>, I'm a front-end dev student.</p>
 
 <p>
 <ul>
