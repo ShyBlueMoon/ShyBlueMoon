@@ -16,7 +16,7 @@
 <p>
 <ul>
   <li> 👀 I’m interested in front and back end development.</li>
-  <li> 🌱 I’m currently learning HTML, CSS and JS.</li>
+  <li> 🌱 I’m currently learning HTML, CSS, JS and Java.</li>
   <li>💞️ I’m looking to collaborate on small projects for beginners.</li>
   <li>📫 Reach me at https://www.linkedin.com/in/luana-dssilva </li>
 </ul>
