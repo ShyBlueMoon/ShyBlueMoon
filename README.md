@@ -1,5 +1,5 @@
 
-<h1 style="text-align:center"> Hello there! <img src="http://static.skaip.org/img/emoticons/180x180/f6fcff/vulcansalute.gif" alt="Olá mundo" width="30px">I'm Luana Silva!</h1>
+<h1 style="text-align:center"> Hello there! <img src="http://static.skaip.org/img/emoticons/180x180/f6fcff/vulcansalute.gif" alt="Olá mundo" width="25px">I'm Luana Silva!</h1>
 
 
 <p align="center">
