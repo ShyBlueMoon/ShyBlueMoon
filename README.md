@@ -1,5 +1,5 @@
 
-<h1 style="text-align:center"> Hello there! <img src="http://static.skaip.org/img/emoticons/180x180/f6fcff/vulcansalute.gif" alt="Olá mundo" width="25px">I'm Luana Silva!</h1>
+<h1 style="text-align:center"> Hello there! <img src="http://static.skaip.org/img/emoticons/180x180/f6fcff/vulcansalute.gif" alt="Olá mundo" width="60"> I'm Luana Silva!</h1>
 
 
 <p align="center">
@@ -15,8 +15,8 @@
 
 <p>
 <ul>
-  <li> 👀 I’m interested in front and back end development.</li>
-  <li> 🌱 I’m currently learning HTML, CSS, JS and Java.</li>
+  <li> 👀 I’m interested in front, back end and mobile development.</li>
+  <li> 🌱 I’m currently learning HTML, CSS and Java.</li>
   <li>💞️ I’m looking to collaborate on small projects for beginners.</li>
   <li>📫 Reach me at https://www.linkedin.com/in/luana-dssilva </li>
 </ul>
