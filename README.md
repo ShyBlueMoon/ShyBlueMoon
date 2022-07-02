@@ -8,6 +8,8 @@
 
 <p align="center">
   <a href="https://dribbble.com/daniserpa/" target="_blank"> <img src="https://raw.githubusercontent.com/ShyBlueMoon/ShyBlueMoon/main/hi_girl.gif" alt="Image by Daniela Serpa" width="200"/></a>
+<p align="center>
+  <img src="https://www.codewars.com/users/ShyBlueMoon/badges/large" alt="Codewars banner" width="200"/></p>
 
 
 
