@@ -5,11 +5,13 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/ShyBlueMoon/ShyBlueMoon/main/BANNER%20Principal%20Github.png" alt="Banner com meu logotipo." width="1200"/></p>
 
-
 <p align="center">
-  <a href="https://dribbble.com/daniserpa/" target="_blank"> <img src="https://raw.githubusercontent.com/ShyBlueMoon/ShyBlueMoon/main/hi_girl.gif" alt="Image by Daniela Serpa" width="200"/></a>
-<p align="center>
-  <img src="https://www.codewars.com/users/ShyBlueMoon/badges/large" alt="Codewars banner" width="200"/></p>
+  <a href="https://www.codewars.com/users/ShyBlueMoon/badges/large" target="_blank"><img src="https://www.codewars.com/users/ShyBlueMoon/badges/large" width="500"/></a>
+<p align="center">
+  <a href="https://dribbble.com/daniserpa/" target="_blank"> <img src="https://raw.githubusercontent.com/ShyBlueMoon/ShyBlueMoon/main/hi_girl.gif" alt="Image by Daniela Serpa" width="300"/></a>
+
+ 
+  
 
 
 
@@ -18,7 +20,7 @@
 <p>
 <ul>
   <li> 👀 I’m interested in front, back end and mobile development.</li>
-  <li> 🌱 I’m currently learning HTML, CSS and Java.</li>
+  <li> 🌱 I’m currently learning Java.</li>
   <li>💞️ I’m looking to collaborate on small projects for beginners.</li>
   <li>📫 Reach me at https://www.linkedin.com/in/luana-dssilva </li>
 </ul>
