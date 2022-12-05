@@ -3,7 +3,7 @@
 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/ShyBlueMoon/ShyBlueMoon/main/BANNER%20Principal%20Github.png" alt="Banner com meu logotipo." width="1200"/></p>
+<img src="https://raw.githubusercontent.com/ShyBlueMoon/ShyBlueMoon/main/Linkedin%20-%20Android.png" alt="Banner com meu logotipo." width="1200"/></p>
 
 <p align="center">
   <a href="https://www.codewars.com/users/ShyBlueMoon/badges/large" target="_blank"><img src="https://www.codewars.com/users/ShyBlueMoon/badges/large" width="500"/></a>
