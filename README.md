@@ -3,17 +3,20 @@
 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/ShyBlueMoon/ShyBlueMoon/main/Linkedin%20-%20Android.png" alt="Banner com meu logotipo." width="1200"/></p>
+<img src="https://raw.githubusercontent.com/ShyBlueMoon/ShyBlueMoon/main/Linkedin%20-%20Android.png" alt="Banner com meu logotipo." width="1200"/>
+</p>
 
 <p align="center">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
- <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
+</p>
 
-  </p>
+<p align="center">
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/ShyBlueMoon/ShyBlueMoon/main/anime_brown_haired_girl_waving_colorful_background.gif" alt="Menina acenando enquanto usa um laptop." width="200"/>
 
- 
-  
+</p>
 
 
 
