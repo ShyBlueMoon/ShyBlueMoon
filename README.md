@@ -6,9 +6,11 @@
 <img src="https://raw.githubusercontent.com/ShyBlueMoon/ShyBlueMoon/main/Linkedin%20-%20Android.png" alt="Banner com meu logotipo." width="1200"/></p>
 
 <p align="center">
-  <a href="https://www.codewars.com/users/ShyBlueMoon/badges/large" target="_blank"><img src="https://www.codewars.com/users/ShyBlueMoon/badges/large" width="500"/></a>
-<p align="center">
-  <a href="https://dribbble.com/daniserpa/" target="_blank"> <img src="https://raw.githubusercontent.com/ShyBlueMoon/ShyBlueMoon/main/hi_girl.gif" alt="Image by Daniela Serpa" width="300"/></a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+ <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
+
+  </p>
+
 
  
   
@@ -27,12 +29,8 @@
 </p>
 
 
-<h3><b>Languages and Tools:</b></h3>
 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
- <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
 
-  
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shybluemoon&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
