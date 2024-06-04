@@ -1,6 +1,21 @@
 
-<h1 style="text-align:center"> Hello there! <img src="http://static.skaip.org/img/emoticons/180x180/f6fcff/vulcansalute.gif" alt="Olá mundo" width="60"> I'm Luana Silva!</h1>
+<h1 style="text-align:center"> Hello there!
+I'm Luana Silva!
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+</h1> 
 
+<p align="center">  
+  <a target="_blank" href="mailto: luana.silva.11@hotmail.com">
+	    <img align="center" src="https://img.shields.io/badge/outlook-d996ab?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="luana.silva.11@hotmail.com">
+  </a> 
+     <a target="_blank" href="https://www.linkedin.com/in/luana-dssilva/">
+	    <img align="center" src="https://img.shields.io/badge/linkedin-6ec4f3?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/luana-dssilva/">
+      </a>
+  <a target="_blank" href="https://gamma.app/docs/Bem-vindo-ao-meu-portfolio-de-aplicativos-Android-fj744ah7q6ksomf?mode=doc">
+	    <img align="center" src="https://img.shields.io/badge/portifolio-7752b4?style=for-the-badge&logo=android&logoColor=white" alt="https://www.linkedin.com/in/luana-dssilva/">
+  </a>
+  
+</p>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/ShyBlueMoon/ShyBlueMoon/main/Linkedin%20-%20Android.png" alt="Banner com meu logotipo." width="1200"/>
@@ -24,19 +39,23 @@
 
 <p>
 <ul>
-  <li> 👀 I’m interested in mobile development.</li>
+  <li> 👀 I’m interested in Android development.</li>
   <li> 🌱 I’m currently learning Java and Kotlin.</li>
   <li>💞️ I’m looking to collaborate on small projects for beginners.</li>
-  <li>📫 Reach me at luana.silva.11@hotmail.com</li>
 </ul>
 </p>
 
 
 
 
+![Static Badge](https://img.shields.io/badge/made_with_love_by-Luana-purple?style=for-the-badge)
+
+
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shybluemoon&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!---
